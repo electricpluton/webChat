@@ -1,0 +1,116 @@
+
+
+.position {
+	display : inline-block ;
+	width : 220px;
+	padding : 15px ;
+	margin-top : 35px ;
+	
+	
+}
+
+h1, .centrer {
+	
+	text-align : center ;
+	margin-top :25px;
+	padding-top :5px;
+	
+
+}
+
+strong {
+	color : black ;
+}
+#salutation {
+	width : 1000px ;
+	text-align : right;
+	color : red ;
+}
+ 
+ /* navigation */
+ #image {
+	
+	text-align : left ;
+}
+
+nav {
+	display :inline-block ;
+	width : 1300px;
+	text-align : right ;
+	margin-bottom : 25px;
+	
+	}
+
+nav ul {
+	list-style-type : none ;
+}
+
+nav li {
+	display : inline-block ;
+	margin-right : 20px;
+}
+
+nav a {
+	font-size : 1.3em;
+	color : blue ;
+	padding-bottom : 3px;
+
+}
+
+
+/* pied de page */ 
+.footer {
+	position :  ;
+		bottom : 0px;
+		right : 5px;
+		left : 5px;
+	background-color : #CCCCCC ;
+	margin-top : 10px;
+}
+
+
+
+#texte {
+	height : 15px;
+	color : white ;
+	padding-top : 15px;
+	text-align :center ;	
+}
+
+/* ajuster les deux blocs div de la page d'administration */
+#admin {
+	display : inline-block ;
+	border : 1px solid blue ;
+	padding : 10px 10px 10px 10px ;
+	
+	
+}
+
+#operation {
+	display : inline-block ;
+	border : 1px solid red ;
+	margin : 15px 20px 0 200px;
+	padding : 10px 10px 10px 10px ;
+	vertical-align : top;
+}
+
+/* ajustement du bloc d'affichage de commentaire et celui des posts de commentaires */
+
+#affiche_commentaire {
+	display : inline-block;
+	border :1px solid yellow ;
+	padding : 15px 15px 15px 15px;
+	
+}
+
+#commentaire {
+	display : inline-block ;
+	border : 1px solid blue ;
+	margin : 30px 30px 0 150px ;
+	padding : 15px 15px 15px 15px;
+	vertical-align : 200px;
+}
+
+#image {
+	margin : 10px 100px 10px 450px ;
+}
