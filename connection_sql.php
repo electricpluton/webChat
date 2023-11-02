@@ -3,7 +3,7 @@
 
 	try {
 		
-		$bdd = new PDO ('mysql: host=192.168.1.30; dbname=webChat', 'alban', 'Albelda');
+		$bdd = new PDO ('mysql: host=192.168.1.30; dbname=webChat', '', '');
 	
 	}catch (Exception $e) {
 		
